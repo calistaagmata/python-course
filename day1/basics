@@ -1,0 +1,42 @@
+The Basics 
+
+Comments 
+
+#this is a comment 
+#the purpose of a comment is to explain what the source code is doing 
+
+Data Types 
+
+#python has basic data types: string, integer, floating pointer, and boolean 
+
+#a string is a collection of characters 
+November 11, 2022
+
+#a integer is a whole number 
+154 
+
+#a floating pointer is a number with a decimal point 
+0.03
+
+#a boolean is true or false 
+
+false 
+
+#use the type function to find the type of data 
+print(type(Happy Birthday!)) 
+print(type(77)) 
+print(type(33.9)) 
+print(tyoe(true)) 
+
+Variables 
+
+#variables are used to store a value
+
+pizza = 1.0
+people = 4.0
+
+pizza / people = .25
+print(pizza / people, "is the amount od pizza each person can eat") 
+
+Math Operators 
+#+,-.//,*,/,**,% 
